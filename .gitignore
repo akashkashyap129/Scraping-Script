@@ -1,0 +1,7 @@
+venv/
+bing_batches/
+scrape_run.log
+*.xlsx
+*.csv
+__pycache__/
+ms-playwright/
